@@ -3,7 +3,8 @@ First time? Check out the tutorial game:
 https://sprig.hackclub.com/gallery/getting_started
 
 @title: fossil avoider
-@author: Case
+@author: Casey Lee
+@description: In my game you are a paleontologist tasked with uncovering fossils a 100 meter^2 area of earth, unfortunately your drill will instantly destroy any fossils directly under it so you must only dig not fossils.  On the bright side your trusty ground penetrating radar can tell you how many fossils each block is surrounded by but only after it has been mined.
 @tags: [wasd to move, j to mine, k to reset]
 @addedOn: 2025-00-00
 */
